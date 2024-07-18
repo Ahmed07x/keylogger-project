@@ -1,5 +1,3 @@
-# keylogger-project
-A simple keylogger written in Python
 # Keylogger Project
 
 A simple keylogger written in Python using the `pynput` library.
